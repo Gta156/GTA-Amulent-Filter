@@ -4,7 +4,8 @@
 
 **Amulet Editor Filter for Exporting Minecraft Builds as Optimized Commands**
 
-![Filter Screenshot Placeholder - Consider adding a screenshot of the UI in Amulet Editor here]
+![image](https://github.com/user-attachments/assets/5122bb73-5693-4cec-9ebf-b9c50657a175)
+
 
 ## Description
 
